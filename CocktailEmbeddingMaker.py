@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import random
 import tensorflow as tf
-import wandb
+
 import json
 import math
 class CocktailEmbeddingMaker:
@@ -268,12 +268,7 @@ class Eval(CocktailEmbeddingMaker):
             print(json.dumps(user,indent=4))
             recipe_profile=self.get_taste_log(generated_recipes)
             recipe_profile_list.append(recipe_profile)
-            if wandb_flag:
-                wandb.log({f"generated_recipe_{user['user_id']}": generated_recipes})
-                ingredient_count = len(generated_recipes[0])
-                recipe_ingredient_count_list.append(ingredient_count)
-                wandb.log({f"ingredient_count_{user['user_id']}": ingredient_count})
-                
+             
             s = self.evaluate_similarity(generated_recipes)
             d = self.evaluate_diversity(generated_recipes)
             a = self.evaluate_abv_match(generated_recipes, user)
@@ -289,8 +284,7 @@ class Eval(CocktailEmbeddingMaker):
         abv_match = np.mean(abv_match_list)
         taste_match = np.mean(taste_match_list)
         avg_ingredient_count = np.mean(recipe_ingredient_count_list)
-        if wandb_flag:
-            wandb.log({'avg_ingredient_count': avg_ingredient_count})
+        
         evaluation_metrics = {
             'similarity': similarity,
             'diversity': diversity,

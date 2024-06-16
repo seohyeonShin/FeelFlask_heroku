@@ -1,6 +1,4 @@
 uvicorn
-tensorflow==2.16.1
-wandb==0.17.1
+tensorflow-cpu
 numpy==1.26.4
 fastapi
-pandas==2.2.2
