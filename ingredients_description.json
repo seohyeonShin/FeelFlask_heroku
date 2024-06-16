@@ -1,0 +1,1226 @@
+[
+    {
+        "name": "151 proof rum",
+        "description": "A very high-proof rum with 75.5% alcohol content."
+    },
+    {
+        "name": "7-up",
+        "description": "A lemon-lime flavored carbonated soft drink."
+    },
+    {
+        "name": "absinthe",
+        "description": "A highly alcoholic spirit with an anise flavor."
+    },
+    {
+        "name": "absolut citron",
+        "description": "A lemon-flavored vodka from the Absolut brand."
+    },
+    {
+        "name": "absolut kurant",
+        "description": "A blackcurrant-flavored vodka from the Absolut brand."
+    },
+    {
+        "name": "absolut peppar",
+        "description": "A pepper-flavored vodka from the Absolut brand."
+    },
+    {
+        "name": "absolut vodka",
+        "description": "A premium, clear vodka from the Absolut brand."
+    },
+    {
+        "name": "advocaat",
+        "description": "A rich, creamy liqueur made from eggs, sugar, and brandy."
+    },
+    {
+        "name": "agave syrup",
+        "description": "A sweetener made from the agave plant."
+    },
+    {
+        "name": "ale",
+        "description": "A type of beer brewed using a warm fermentation method."
+    },
+    {
+        "name": "allspice",
+        "description": "A spice that tastes like a blend of cinnamon, nutmeg, and cloves."
+    },
+    {
+        "name": "almond",
+        "description": "A nut with a slightly sweet flavor."
+    },
+    {
+        "name": "almond flavoring",
+        "description": "A flavor extract that mimics the taste of almonds."
+    },
+    {
+        "name": "amaretto",
+        "description": "An almond-flavored liqueur."
+    },
+    {
+        "name": "angelica root",
+        "description": "A herb often used as a flavoring in gin."
+    },
+    {
+        "name": "angostura bitters",
+        "description": "A concentrated bitters used in cocktails for flavoring."
+    },
+    {
+        "name": "anise",
+        "description": "A spice with a flavor similar to licorice."
+    },
+    {
+        "name": "anisette",
+        "description": "A sweet, anise-flavored liqueur."
+    },
+    {
+        "name": "aperol",
+        "description": "An Italian aperitif with a bitter orange flavor."
+    },
+    {
+        "name": "apfelkorn",
+        "description": "A sweet apple-flavored liqueur."
+    },
+    {
+        "name": "apple",
+        "description": "A crisp, sweet fruit."
+    },
+    {
+        "name": "apple brandy",
+        "description": "Brandy made from distilled apples."
+    },
+    {
+        "name": "apple cider",
+        "description": "A beverage made from fermented apple juice."
+    },
+    {
+        "name": "apple juice",
+        "description": "Juice made from pressed apples."
+    },
+    {
+        "name": "apple schnapps",
+        "description": "A strong, apple-flavored spirit."
+    },
+    {
+        "name": "applejack",
+        "description": "An apple brandy popular in the United States."
+    },
+    {
+        "name": "apricot",
+        "description": "A small, sweet, orange fruit."
+    },
+    {
+        "name": "apricot brandy",
+        "description": "Brandy flavored with apricots."
+    },
+    {
+        "name": "aquavit",
+        "description": "A Scandinavian spirit flavored with caraway or dill."
+    },
+    {
+        "name": "asafoetida",
+        "description": "A pungent spice used in Indian cooking."
+    },
+    {
+        "name": "anejo rum",
+        "description": "Aged rum with a rich and smooth flavor."
+    },
+    {
+        "name": "bacardi limon",
+        "description": "A citrus-flavored rum from Bacardi."
+    },
+    {
+        "name": "baileys irish cream",
+        "description": "A cream-based liqueur made with Irish whiskey."
+    },
+    {
+        "name": "banana",
+        "description": "A sweet, tropical fruit."
+    },
+    {
+        "name": "banana liqueur",
+        "description": "A sweet liqueur with a banana flavor."
+    },
+    {
+        "name": "beer",
+        "description": "An alcoholic beverage made from fermented grains."
+    },
+    {
+        "name": "benedictine",
+        "description": "A herbal liqueur produced in France."
+    },
+    {
+        "name": "berries",
+        "description": "Small, juicy fruits like strawberries, blueberries, and raspberries."
+    },
+    {
+        "name": "bitter lemon",
+        "description": "A lemon-flavored carbonated drink with a bitter taste."
+    },
+    {
+        "name": "bitters",
+        "description": "A concentrated alcoholic preparation used for flavoring cocktails."
+    },
+    {
+        "name": "black pepper",
+        "description": "A spice made from the dried fruit of the pepper plant."
+    },
+    {
+        "name": "black sambuca",
+        "description": "A dark, anise-flavored liqueur."
+    },
+    {
+        "name": "blackberry brandy",
+        "description": "Brandy flavored with blackberries."
+    },
+    {
+        "name": "blackcurrant cordial",
+        "description": "A sweet, concentrated blackcurrant-flavored syrup."
+    },
+    {
+        "name": "blackcurrant squash",
+        "description": "A non-alcoholic beverage made from blackcurrant concentrate."
+    },
+    {
+        "name": "blended whiskey",
+        "description": "A whiskey made by blending different types of whiskey."
+    },
+    {
+        "name": "blue curacao",
+        "description": "A blue-colored, orange-flavored liqueur."
+    },
+    {
+        "name": "blueberry schnapps",
+        "description": "A blueberry-flavored schnapps."
+    },
+    {
+        "name": "bourbon",
+        "description": "An American whiskey made primarily from corn."
+    },
+    {
+        "name": "brandy",
+        "description": "A spirit distilled from wine or fermented fruit juice."
+    },
+    {
+        "name": "brown sugar",
+        "description": "A soft, moist sugar with a molasses flavor."
+    },
+    {
+        "name": "butter",
+        "description": "A dairy product made from churning cream."
+    },
+    {
+        "name": "butterscotch schnapps",
+        "description": "A sweet liqueur with a butterscotch flavor."
+    },
+    {
+        "name": "cachaca",
+        "description": "A Brazilian spirit made from fermented sugarcane juice."
+    },
+    {
+        "name": "campari",
+        "description": "A bitter Italian aperitif with a bright red color."
+    },
+    {
+        "name": "candy",
+        "description": "A sweet confection made with sugar."
+    },
+    {
+        "name": "cantaloupe",
+        "description": "A type of melon with orange flesh."
+    },
+    {
+        "name": "caramel coloring",
+        "description": "A dark, sweet coloring used in beverages and food."
+    },
+    {
+        "name": "caramel sauce",
+        "description": "A sweet sauce made from caramelized sugar."
+    },
+    {
+        "name": "carbonated soft drink",
+        "description": "A sweet, fizzy beverage."
+    },
+    {
+        "name": "carbonated water",
+        "description": "Water that has been infused with carbon dioxide gas."
+    },
+    {
+        "name": "cardamom",
+        "description": "A spice with a sweet, aromatic flavor."
+    },
+    {
+        "name": "carrot",
+        "description": "A crunchy, sweet root vegetable."
+    },
+    {
+        "name": "cayenne pepper",
+        "description": "A hot chili pepper used to spice up dishes."
+    },
+    {
+        "name": "celery salt",
+        "description": "A seasoning made from ground celery seeds and salt."
+    },
+    {
+        "name": "chambord raspberry liqueur",
+        "description": "A raspberry-flavored liqueur from France."
+    },
+    {
+        "name": "champagne",
+        "description": "A sparkling wine from the Champagne region of France."
+    },
+    {
+        "name": "cherries",
+        "description": "Small, red, sweet or tart fruits."
+    },
+    {
+        "name": "cherry",
+        "description": "A small, round, red fruit."
+    },
+    {
+        "name": "cherry brandy",
+        "description": "Brandy flavored with cherries."
+    },
+    {
+        "name": "cherry grenadine",
+        "description": "A sweet, red syrup made from cherries."
+    },
+    {
+        "name": "cherry heering",
+        "description": "A cherry-flavored liqueur from Denmark."
+    },
+    {
+        "name": "cherry liqueur",
+        "description": "A sweet liqueur flavored with cherries."
+    },
+    {
+        "name": "chocolate",
+        "description": "A sweet treat made from cacao beans."
+    },
+    {
+        "name": "chocolate ice-cream",
+        "description": "Ice cream flavored with chocolate."
+    },
+    {
+        "name": "chocolate liqueur",
+        "description": "A liqueur with a chocolate flavor."
+    },
+    {
+        "name": "chocolate milk",
+        "description": "Milk flavored with chocolate syrup or powder."
+    },
+    {
+        "name": "chocolate sauce",
+        "description": "A sweet sauce made from chocolate."
+    },
+    {
+        "name": "chocolate syrup",
+        "description": "A sweet, thick syrup made from chocolate."
+    },
+    {
+        "name": "cider",
+        "description": "An alcoholic drink made from fermented apple juice."
+    },
+    {
+        "name": "cinnamon",
+        "description": "A spice with a sweet, warm flavor."
+    },
+    {
+        "name": "cloves",
+        "description": "A spice with a strong, sweet, and spicy flavor."
+    },
+    {
+        "name": "club soda",
+        "description": "Carbonated water with added minerals."
+    },
+    {
+        "name": "coca-cola",
+        "description": "A caramel-colored, caffeinated sweet carbonated drink."
+    },
+    {
+        "name": "cocoa powder",
+        "description": "Powdered chocolate used for baking and drinks."
+    },
+    {
+        "name": "coconut liqueur",
+        "description": "A liqueur with a coconut flavor."
+    },
+    {
+        "name": "coconut milk",
+        "description": "A creamy liquid made from grated coconut."
+    },
+    {
+        "name": "coconut rum",
+        "description": "Rum flavored with coconut."
+    },
+    {
+        "name": "coconut syrup",
+        "description": "A sweet syrup with a coconut flavor."
+    },
+    {
+        "name": "coffee",
+        "description": "A brewed drink made from roasted coffee beans."
+    },
+    {
+        "name": "coffee brandy",
+        "description": "Brandy flavored with coffee."
+    },
+    {
+        "name": "coffee liqueur",
+        "description": "A sweet liqueur flavored with coffee."
+    },
+    {
+        "name": "cognac",
+        "description": "A type of brandy from the Cognac region of France."
+    },
+    {
+        "name": "cointreau",
+        "description": "A clear, orange-flavored liqueur."
+    },
+    {
+        "name": "condensed milk",
+        "description": "Thick, sweetened milk."
+    },
+    {
+        "name": "coriander",
+        "description": "A spice with a citrusy flavor from the seeds of the coriander plant."
+    },
+    {
+        "name": "corn syrup",
+        "description": "A sweet syrup made from corn starch."
+    },
+    {
+        "name": "cornstarch",
+        "description": "A fine powder made from corn used as a thickener."
+    },
+    {
+        "name": "corona",
+        "description": "A popular Mexican beer."
+    },
+    {
+        "name": "cranberries",
+        "description": "Tart, red berries often used in sauces and drinks."
+    },
+    {
+        "name": "cranberry juice",
+        "description": "Juice made from cranberries."
+    },
+    {
+        "name": "cranberry vodka",
+        "description": "Vodka flavored with cranberries."
+    },
+    {
+        "name": "cream",
+        "description": "The thick, fatty part of milk."
+    },
+    {
+        "name": "cream of coconut",
+        "description": "A sweet, thick coconut cream used in cocktails."
+    },
+    {
+        "name": "creme de banane",
+        "description": "A banana-flavored liqueur."
+    },
+    {
+        "name": "creme de cacao",
+        "description": "A chocolate-flavored liqueur."
+    },
+    {
+        "name": "creme de cassis",
+        "description": "A blackcurrant-flavored liqueur."
+    },
+    {
+        "name": "creme de mure",
+        "description": "A blackberry-flavored liqueur."
+    },
+    {
+        "name": "crown royal",
+        "description": "A Canadian blended whiskey."
+    },
+    {
+        "name": "cumin seed",
+        "description": "A spice with a warm, earthy flavor."
+    },
+    {
+        "name": "curacao",
+        "description": "A liqueur made with the dried peel of the Laraha citrus fruit."
+    },
+    {
+        "name": "daiquiri mix",
+        "description": "A pre-made mix for making daiquiri cocktails."
+    },
+    {
+        "name": "dark creme de cacao",
+        "description": "A dark, chocolate-flavored liqueur."
+    },
+    {
+        "name": "dark rum",
+        "description": "Rum that has been aged longer for a richer flavor."
+    },
+    {
+        "name": "demerara sugar",
+        "description": "A type of raw cane sugar with a large grain."
+    },
+    {
+        "name": "dr. pepper",
+        "description": "A carbonated soft drink with a unique blend of 23 flavors."
+    },
+    {
+        "name": "drambuie",
+        "description": "A Scottish liqueur made from whiskey, honey, herbs, and spices."
+    },
+    {
+        "name": "dry vermouth",
+        "description": "A type of fortified wine used in cocktails."
+    },
+    {
+        "name": "dubonnet rouge",
+        "description": "A French aperitif made from wine, herbs, and spices."
+    },
+    {
+        "name": "egg",
+        "description": "An oval object laid by female birds, used in cooking."
+    },
+    {
+        "name": "egg white",
+        "description": "The clear, protein-rich part of an egg."
+    },
+    {
+        "name": "egg yolk",
+        "description": "The yellow, fatty part of an egg."
+    },
+    {
+        "name": "erin cream",
+        "description": "A cream liqueur similar to Irish cream."
+    },
+    {
+        "name": "espresso",
+        "description": "A strong, concentrated coffee."
+    },
+    {
+        "name": "everclear",
+        "description": "A brand of very high-proof grain alcohol."
+    },
+    {
+        "name": "fennel seeds",
+        "description": "Seeds with a sweet, anise-like flavor."
+    },
+    {
+        "name": "firewater",
+        "description": "A high-proof cinnamon-flavored liqueur."
+    },
+    {
+        "name": "food coloring",
+        "description": "Dye used to color food and drinks."
+    },
+    {
+        "name": "frangelico",
+        "description": "A hazelnut-flavored liqueur from Italy."
+    },
+    {
+        "name": "fresca",
+        "description": "A grapefruit-flavored carbonated soft drink."
+    },
+    {
+        "name": "fresh lemon juice",
+        "description": "Juice squeezed from fresh lemons."
+    },
+    {
+        "name": "fresh lime juice",
+        "description": "Juice squeezed from fresh limes."
+    },
+    {
+        "name": "fruit",
+        "description": "Edible plant products, often sweet and fleshy."
+    },
+    {
+        "name": "fruit juice",
+        "description": "Juice extracted from various fruits."
+    },
+    {
+        "name": "fruit punch",
+        "description": "A sweet beverage made from a mixture of fruit juices."
+    },
+    {
+        "name": "galliano",
+        "description": "A sweet herbal liqueur with a vanilla flavor."
+    },
+    {
+        "name": "gin",
+        "description": "A spirit flavored with juniper berries and other botanicals."
+    },
+    {
+        "name": "ginger",
+        "description": "A spice with a spicy, sweet flavor."
+    },
+    {
+        "name": "ginger ale",
+        "description": "A carbonated drink flavored with ginger."
+    },
+    {
+        "name": "ginger beer",
+        "description": "A stronger, spicier version of ginger ale."
+    },
+    {
+        "name": "glycerine",
+        "description": "A thick, sweet liquid used as a sweetener or preservative."
+    },
+    {
+        "name": "godiva liqueur",
+        "description": "A chocolate-flavored liqueur from the Godiva brand."
+    },
+    {
+        "name": "gold tequila",
+        "description": "Tequila with a golden color, often aged."
+    },
+    {
+        "name": "goldschlager",
+        "description": "A cinnamon schnapps with gold flakes."
+    },
+    {
+        "name": "grain alcohol",
+        "description": "A high-proof alcohol made from grains."
+    },
+    {
+        "name": "grand marnier",
+        "description": "An orange-flavored liqueur made with cognac."
+    },
+    {
+        "name": "grape juice",
+        "description": "Juice made from grapes."
+    },
+    {
+        "name": "grape soda",
+        "description": "A carbonated soft drink with grape flavor."
+    },
+    {
+        "name": "grapefruit juice",
+        "description": "Juice made from grapefruits."
+    },
+    {
+        "name": "grapes",
+        "description": "Small, sweet fruits often used to make wine."
+    },
+    {
+        "name": "green chartreuse",
+        "description": "A green herbal liqueur made by Carthusian monks."
+    },
+    {
+        "name": "green creme de menthe",
+        "description": "A green, mint-flavored liqueur."
+    },
+    {
+        "name": "grenadine",
+        "description": "A sweet, red syrup made from pomegranates."
+    },
+    {
+        "name": "guava juice",
+        "description": "Juice made from guavas."
+    },
+    {
+        "name": "guinness stout",
+        "description": "A dark Irish beer with a rich, creamy head."
+    },
+    {
+        "name": "half-and-half",
+        "description": "A mixture of equal parts milk and cream."
+    },
+    {
+        "name": "heavy cream",
+        "description": "Cream with a high fat content."
+    },
+    {
+        "name": "honey",
+        "description": "A sweet, thick liquid made by bees from flower nectar."
+    },
+    {
+        "name": "hot chocolate",
+        "description": "A warm beverage made from cocoa powder and milk."
+    },
+    {
+        "name": "hot damn",
+        "description": "A cinnamon schnapps liqueur."
+    },
+    {
+        "name": "ice",
+        "description": "Frozen water used to chill drinks."
+    },
+    {
+        "name": "iced tea",
+        "description": "Chilled tea, often sweetened."
+    },
+    {
+        "name": "irish cream",
+        "description": "A cream liqueur made with Irish whiskey."
+    },
+    {
+        "name": "irish whiskey",
+        "description": "Whiskey made in Ireland."
+    },
+    {
+        "name": "jack daniels",
+        "description": "A brand of Tennessee whiskey."
+    },
+    {
+        "name": "jello",
+        "description": "A gelatin dessert available in various flavors."
+    },
+    {
+        "name": "jim beam",
+        "description": "A brand of Kentucky bourbon."
+    },
+    {
+        "name": "johnnie walker",
+        "description": "A brand of Scotch whisky."
+    },
+    {
+        "name": "jagermeister",
+        "description": "A German herbal liqueur."
+    },
+    {
+        "name": "kahlua",
+        "description": "A coffee-flavored liqueur from Mexico."
+    },
+    {
+        "name": "kirschwasser",
+        "description": "A clear cherry brandy from Germany."
+    },
+    {
+        "name": "kiwi",
+        "description": "A small, green, tart fruit."
+    },
+    {
+        "name": "kiwi liqueur",
+        "description": "A sweet liqueur with a kiwi flavor."
+    },
+    {
+        "name": "kool-aid",
+        "description": "A flavored drink mix."
+    },
+    {
+        "name": "kummel",
+        "description": "A caraway-flavored liqueur."
+    },
+    {
+        "name": "lager",
+        "description": "A type of beer fermented and conditioned at low temperatures."
+    },
+    {
+        "name": "lavender",
+        "description": "A fragrant herb used in cooking and drinks."
+    },
+    {
+        "name": "lemon",
+        "description": "A sour, yellow citrus fruit."
+    },
+    {
+        "name": "lemon juice",
+        "description": "Juice extracted from lemons."
+    },
+    {
+        "name": "lemon peel",
+        "description": "The outer rind of a lemon, used for flavoring."
+    },
+    {
+        "name": "lemon vodka",
+        "description": "Vodka flavored with lemon."
+    },
+    {
+        "name": "lemon-lime soda",
+        "description": "A carbonated soft drink with lemon and lime flavors."
+    },
+    {
+        "name": "lemonade",
+        "description": "A sweetened drink made from lemon juice, water, and sugar."
+    },
+    {
+        "name": "licorice root",
+        "description": "A root with a sweet, anise-like flavor."
+    },
+    {
+        "name": "light cream",
+        "description": "Cream with a lower fat content than heavy cream."
+    },
+    {
+        "name": "light rum",
+        "description": "A clear, light-bodied rum."
+    },
+    {
+        "name": "lillet blanc",
+        "description": "A French aperitif wine."
+    },
+    {
+        "name": "lime",
+        "description": "A sour, green citrus fruit."
+    },
+    {
+        "name": "lime juice",
+        "description": "Juice extracted from limes."
+    },
+    {
+        "name": "lime juice cordial",
+        "description": "A sweetened lime juice used in cocktails."
+    },
+    {
+        "name": "lime peel",
+        "description": "The outer rind of a lime, used for flavoring."
+    },
+    {
+        "name": "lime vodka",
+        "description": "Vodka flavored with lime."
+    },
+    {
+        "name": "limeade",
+        "description": "A sweetened drink made from lime juice, water, and sugar."
+    },
+    {
+        "name": "malibu rum",
+        "description": "A coconut-flavored rum."
+    },
+    {
+        "name": "mango",
+        "description": "A sweet, tropical fruit."
+    },
+    {
+        "name": "maple syrup",
+        "description": "A sweet syrup made from the sap of maple trees."
+    },
+    {
+        "name": "maraschino cherry",
+        "description": "A sweet, preserved cherry often used as a garnish."
+    },
+    {
+        "name": "maraschino liqueur",
+        "description": "A cherry-flavored liqueur."
+    },
+    {
+        "name": "marjoram leaves",
+        "description": "A herb with a sweet, citrusy flavor."
+    },
+    {
+        "name": "marshmallows",
+        "description": "Soft, fluffy confections made from sugar."
+    },
+    {
+        "name": "maui",
+        "description": "A brand of sweet, tropical liqueur."
+    },
+    {
+        "name": "melon liqueur",
+        "description": "A sweet liqueur with a melon flavor."
+    },
+    {
+        "name": "midori melon liqueur",
+        "description": "A bright green, sweet melon-flavored liqueur."
+    },
+    {
+        "name": "milk",
+        "description": "A nutrient-rich liquid produced by mammals."
+    },
+    {
+        "name": "mini-snickers bars",
+        "description": "Small, bite-sized chocolate bars."
+    },
+    {
+        "name": "mint",
+        "description": "A fragrant herb with a cool, refreshing flavor."
+    },
+    {
+        "name": "mint syrup",
+        "description": "A sweet syrup flavored with mint."
+    },
+    {
+        "name": "mountain dew",
+        "description": "A citrus-flavored carbonated soft drink."
+    },
+    {
+        "name": "nutmeg",
+        "description": "A spice with a warm, sweet flavor."
+    },
+    {
+        "name": "olive",
+        "description": "A small, bitter fruit often used to make olive oil."
+    },
+    {
+        "name": "olive brine",
+        "description": "The salty liquid from a jar of olives."
+    },
+    {
+        "name": "orange",
+        "description": "A sweet, juicy citrus fruit."
+    },
+    {
+        "name": "orange bitters",
+        "description": "Bitters with a strong orange flavor."
+    },
+    {
+        "name": "orange curacao",
+        "description": "An orange-flavored liqueur."
+    },
+    {
+        "name": "orange juice",
+        "description": "Juice extracted from oranges."
+    },
+    {
+        "name": "orange peel",
+        "description": "The outer rind of an orange, used for flavoring."
+    },
+    {
+        "name": "orange spiral",
+        "description": "A twist of orange peel used as a garnish."
+    },
+    {
+        "name": "oreo cookie",
+        "description": "A chocolate sandwich cookie with a cream filling."
+    },
+    {
+        "name": "orgeat syrup",
+        "description": "A sweet almond-flavored syrup."
+    },
+    {
+        "name": "ouzo",
+        "description": "A Greek anise-flavored liqueur."
+    },
+    {
+        "name": "papaya",
+        "description": "A sweet, tropical fruit with orange flesh."
+    },
+    {
+        "name": "passion fruit juice",
+        "description": "Juice made from passion fruits."
+    },
+    {
+        "name": "passion fruit syrup",
+        "description": "A sweet syrup made from passion fruit juice."
+    },
+    {
+        "name": "peach bitters",
+        "description": "Bitters with a strong peach flavor."
+    },
+    {
+        "name": "peach brandy",
+        "description": "Brandy flavored with peaches."
+    },
+    {
+        "name": "peach nectar",
+        "description": "A thick, sweet juice made from peaches."
+    },
+    {
+        "name": "peach schnapps",
+        "description": "A sweet, peach-flavored liqueur."
+    },
+    {
+        "name": "peach vodka",
+        "description": "Vodka flavored with peaches."
+    },
+    {
+        "name": "peachtree schnapps",
+        "description": "A brand of peach-flavored schnapps."
+    },
+    {
+        "name": "pepper",
+        "description": "A spice with a pungent, hot flavor."
+    },
+    {
+        "name": "peppermint extract",
+        "description": "A concentrated flavoring made from peppermint."
+    },
+    {
+        "name": "peppermint schnapps",
+        "description": "A sweet, peppermint-flavored liqueur."
+    },
+    {
+        "name": "pepsi cola",
+        "description": "A caramel-colored, caffeinated sweet carbonated drink."
+    },
+    {
+        "name": "peychaud bitters",
+        "description": "A type of bitters used in cocktails, with a unique flavor."
+    },
+    {
+        "name": "pina colada mix",
+        "description": "A pre-made mix for making pina colada cocktails."
+    },
+    {
+        "name": "pineapple",
+        "description": "A sweet, tropical fruit."
+    },
+    {
+        "name": "pineapple juice",
+        "description": "Juice made from pineapples."
+    },
+    {
+        "name": "pineapple syrup",
+        "description": "A sweet syrup made from pineapple juice."
+    },
+    {
+        "name": "pink lemonade",
+        "description": "A variation of lemonade with a pink color."
+    },
+    {
+        "name": "pisang ambon",
+        "description": "A bright green, banana-flavored liqueur."
+    },
+    {
+        "name": "pisco",
+        "description": "A South American brandy made from fermented grape juice."
+    },
+    {
+        "name": "port",
+        "description": "A sweet, fortified wine from Portugal."
+    },
+    {
+        "name": "powdered sugar",
+        "description": "Finely ground sugar used in baking and for dusting."
+    },
+    {
+        "name": "prosecco",
+        "description": "An Italian sparkling wine."
+    },
+    {
+        "name": "raspberry liqueur",
+        "description": "A sweet liqueur flavored with raspberries."
+    },
+    {
+        "name": "raspberry syrup",
+        "description": "A sweet syrup made from raspberries."
+    },
+    {
+        "name": "raspberry vodka",
+        "description": "Vodka flavored with raspberries."
+    },
+    {
+        "name": "red wine",
+        "description": "Wine made from dark-colored grape varieties."
+    },
+    {
+        "name": "ricard",
+        "description": "A French anise-flavored aperitif."
+    },
+    {
+        "name": "root beer",
+        "description": "A sweet, carbonated beverage with a root-based flavor."
+    },
+    {
+        "name": "rum",
+        "description": "A spirit made from fermented sugarcane or molasses."
+    },
+    {
+        "name": "rumple minze",
+        "description": "A peppermint-flavored schnapps."
+    },
+    {
+        "name": "rye whiskey",
+        "description": "Whiskey made primarily from rye grain."
+    },
+    {
+        "name": "sambuca",
+        "description": "An Italian anise-flavored liqueur."
+    },
+    {
+        "name": "sarsaparilla",
+        "description": "A sweet, carbonated drink made from sarsaparilla root."
+    },
+    {
+        "name": "schweppes russchian",
+        "description": "A citrus-flavored carbonated mixer."
+    },
+    {
+        "name": "scotch",
+        "description": "Whisky made in Scotland."
+    },
+    {
+        "name": "sherbet",
+        "description": "A sweet, frozen dessert similar to sorbet."
+    },
+    {
+        "name": "sherry",
+        "description": "A fortified wine from Spain."
+    },
+    {
+        "name": "sirup of roses",
+        "description": "A sweet syrup made from rose petals."
+    },
+    {
+        "name": "sloe gin",
+        "description": "A liqueur made from gin and sloe berries."
+    },
+    {
+        "name": "soda water",
+        "description": "Carbonated water used as a mixer."
+    },
+    {
+        "name": "sour mix",
+        "description": "A mixer made from lemon and/or lime juice and sugar."
+    },
+    {
+        "name": "southern comfort",
+        "description": "A whiskey-based liqueur with fruit and spice flavors."
+    },
+    {
+        "name": "spiced rum",
+        "description": "Rum infused with spices and flavors."
+    },
+    {
+        "name": "sprite",
+        "description": "A lemon-lime flavored carbonated soft drink."
+    },
+    {
+        "name": "st. germain",
+        "description": "An elderflower liqueur."
+    },
+    {
+        "name": "strawberries",
+        "description": "Sweet, red berries."
+    },
+    {
+        "name": "strawberry liqueur",
+        "description": "A sweet liqueur flavored with strawberries."
+    },
+    {
+        "name": "strawberry schnapps",
+        "description": "A strawberry-flavored schnapps."
+    },
+    {
+        "name": "sugar",
+        "description": "A sweetener made from sugarcane or sugar beets."
+    },
+    {
+        "name": "sugar syrup",
+        "description": "A simple syrup made from sugar and water."
+    },
+    {
+        "name": "surge",
+        "description": "A citrus-flavored carbonated soft drink."
+    },
+    {
+        "name": "sweet and sour",
+        "description": "A mixer made from a combination of sweet and sour ingredients."
+    },
+    {
+        "name": "sweet vermouth",
+        "description": "A type of fortified wine used in cocktails."
+    },
+    {
+        "name": "tabasco sauce",
+        "description": "A hot sauce made from tabasco peppers."
+    },
+    {
+        "name": "tea",
+        "description": "A beverage made by steeping cured leaves of the tea plant in water."
+    },
+    {
+        "name": "tennessee whiskey",
+        "description": "A whiskey made in Tennessee with a distinct charcoal filtering process."
+    },
+    {
+        "name": "tequila",
+        "description": "A Mexican spirit made from the blue agave plant."
+    },
+    {
+        "name": "tia maria",
+        "description": "A coffee-flavored liqueur from Jamaica."
+    },
+    {
+        "name": "tomato juice",
+        "description": "Juice made from tomatoes."
+    },
+    {
+        "name": "tonic water",
+        "description": "A carbonated water with added quinine, used as a mixer."
+    },
+    {
+        "name": "triple sec",
+        "description": "A clear, orange-flavored liqueur."
+    },
+    {
+        "name": "tropicana",
+        "description": "A brand of fruit juices."
+    },
+    {
+        "name": "vanilla",
+        "description": "A flavor derived from vanilla beans."
+    },
+    {
+        "name": "vanilla extract",
+        "description": "A concentrated flavoring made from vanilla beans."
+    },
+    {
+        "name": "vanilla ice-cream",
+        "description": "Ice cream flavored with vanilla."
+    },
+    {
+        "name": "vanilla vodka",
+        "description": "Vodka flavored with vanilla."
+    },
+    {
+        "name": "vermouth",
+        "description": "A fortified wine flavored with various botanicals."
+    },
+    {
+        "name": "vodka",
+        "description": "A clear, neutral spirit."
+    },
+    {
+        "name": "water",
+        "description": "A clear, essential liquid for hydration and various uses."
+    },
+    {
+        "name": "whipped cream",
+        "description": "Cream that has been whipped to a light, fluffy consistency."
+    },
+    {
+        "name": "whipping cream",
+        "description": "Cream with a high fat content, used for whipping."
+    },
+    {
+        "name": "whiskey",
+        "description": "A spirit distilled from fermented grain mash."
+    },
+    {
+        "name": "whisky",
+        "description": "The spelling for whiskey made outside the US and Ireland."
+    },
+    {
+        "name": "white creme de menthe",
+        "description": "A clear, mint-flavored liqueur."
+    },
+    {
+        "name": "white rum",
+        "description": "A clear, light-bodied rum."
+    },
+    {
+        "name": "wild turkey",
+        "description": "A brand of bourbon whiskey."
+    },
+    {
+        "name": "wine",
+        "description": "An alcoholic beverage made from fermented grapes."
+    },
+    {
+        "name": "worcestershire sauce",
+        "description": "A fermented liquid condiment with a complex flavor."
+    },
+    {
+        "name": "wormwood",
+        "description": "A bitter herb used in absinthe."
+    },
+    {
+        "name": "yellow chartreuse",
+        "description": "A yellow herbal liqueur made by Carthusian monks."
+    },
+    {
+        "name": "yoghurt",
+        "description": "A fermented dairy product."
+    },
+    {
+        "name": "yukon jack",
+        "description": "A Canadian whisky-based honey liqueur."
+    },
+    {
+        "name": "zima",
+        "description": "A clear, lightly carbonated alcoholic beverage."
+    },
+    {
+        "name": "salt",
+        "description": "A mineral used to enhance the flavor of food and drinks."
+    }
+]
