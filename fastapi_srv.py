@@ -7,10 +7,16 @@ from typing import List, Dict
 import sys
 import traceback
 import random
-
+from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI()
-
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # 모든 도메인 허용, 보안을 위해 수정 가능
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 # model = tf.keras.models.load_model('testmodel.h5')
 model = tf.keras.models.load_model('best_model_earthy.h5')
 
