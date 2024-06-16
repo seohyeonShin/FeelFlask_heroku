@@ -2,3 +2,4 @@ uvicorn
 tensorflow-cpu
 numpy==1.26.4
 fastapi
+pandas==2.2.2
